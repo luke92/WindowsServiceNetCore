@@ -1,0 +1,1 @@
+SC CREATE "PCAAlephoo" binpath="C:\Servicio\Windows Services\PCAAlephoo\HUA.PCAAlephoo.WindowsService.exe" START=auto DisplayName="PCAAlephoo" OBJ= LocalSystem password= ""
